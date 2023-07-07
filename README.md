@@ -8,7 +8,7 @@
 ```
 npm init -y
 ````
-2.  I installed all the dependencies I needed (They are all dev dependencies for this project) by typing 
+2.  I installed all the dependencies I needed (They are all dev dependencies for this project) 
 ````
 npm i --save-dev prisma typescript ts-node @types/node nodemon
 
